@@ -1,8 +1,3 @@
-'''
-Created on 2011-4-6
-
-@author: panweijing@corp.netease.com
-'''
 import pygame
 import random
 
